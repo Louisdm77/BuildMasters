@@ -13,7 +13,7 @@ const About = () => {
               className="w-full h-96 md:h-[500px] object-cover rounded-lg shadow-2xl"
             />
           </div>
-          <div className="md:w-1/2 text-center md:text-left">
+          <div className="md:w-1/2 text-center md:text-left md:ml-6">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
               About BuildMasters
             </h1>
